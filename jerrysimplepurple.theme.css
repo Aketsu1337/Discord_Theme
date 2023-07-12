@@ -1,14 +1,6 @@
-/**
- * @name Jerry_simple_purple
- * @version 0.9.9
- * @author TheCommieAxolotl#0001
- * @authorId 538487970408300544
- * @description A clean theme inspired by Google's Material Design Guidelines.
- * @source https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/MaterialDesign
- * @website https://thecommieaxolotl.github.io/BetterDiscord-Stuff/
- * @invite g2KnUw7u7N
- * @donate https://github.com/sponsors/TheCommieAxolotl/
- * @BDEditor MaterialDesign
+/*
+Im just testing u get me. 
+Init.
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round:wght@100;300;400;500;700&display=swap');
@@ -129,6 +121,8 @@
   --switch-unchecked-color: #74796e;
 }
 
+/* well fuck light am i right? */
+
 .theme-light {
   --skin-accent-h: 266;
   --skin-accent-s: 86%;
@@ -140,7 +134,3 @@
   --skin-name: "Default Light";
   --skin-author: "TheCommieAxolotl";
 }
-
-/* Any custom CSS below here */
-
-
